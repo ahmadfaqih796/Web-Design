@@ -1,2 +1,0 @@
-# FaqihProject
-Masih Pemula
